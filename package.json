@@ -1,6 +1,6 @@
 {
   "name": "fifteen-kilos-webpack-plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bring the magic of fifteen-kilos to your entire project",
   "main": "index.js",
   "scripts": {
